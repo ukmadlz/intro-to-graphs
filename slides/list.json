@@ -94,7 +94,11 @@
     "indexes.md",
     "schemas.md",
     "gremlin.md",
+    "gremlin-in-the-machine.md",
+    "gremlin-running.md",
+    "and-gremlin-is.md",
+    "gremlin-docs.md",
     "example.md",
-    "slides.md",
+    "end.html",
     "questions.md"
 ]
