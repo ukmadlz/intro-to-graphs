@@ -1,4 +1,2 @@
 
-# Introduction to IBM Graph
-
-
+# Introduction to Graph Databases
