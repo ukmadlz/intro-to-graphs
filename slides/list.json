@@ -54,6 +54,12 @@
     "ibm-graph.md",
     "what-are-graphs.md",
     "initial-thoughts.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/marketing-graph.gif"
+        }
+    },
     "graph-network-theory.md",
     "brief-description.md",
     "previous-example.html",
@@ -63,6 +69,8 @@
     "traversal-example.md",
     "1-step-traversal.html",
     "2-step-traversal.html",
+    "name-a-graph-database.md",
+    "popular-graphs.md",
     "why-would-you-use-graphs.md",
     "social-graphsnetworks.md",
     "recommendation-engines.md",
