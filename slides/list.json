@@ -39,7 +39,19 @@
             }
         }
     ],
-    "where-to-start.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/love.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/deadpool-unicorn.gif"
+        }
+    },
+    "ibm-graph.md",
     "what-are-graphs.md",
     "initial-thoughts.html",
     "graph-network-theory.md",
