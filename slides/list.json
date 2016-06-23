@@ -42,6 +42,12 @@
     {
         "filename": "blank.md",
         "attr": {
+            "data-background": "images/has-graphs.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
             "data-background": "images/love.gif"
         }
     },
